@@ -7,7 +7,7 @@ pipeline{
         stages {
          stage('cloning'){
                 steps{
-                    git 'https://github.com/Devakumar124/terraform-ansible.git'
+                    git 'https://github.com/Devakumar124/terraform-test1.git'
                     
                 }
              }
